@@ -1,6 +1,7 @@
 header {
     background-color: darkslategray;
     color: chartreuse;
+    text-align: center;
 }
 
 main {
@@ -10,6 +11,6 @@ main {
 
 body {
     margin: 0;
-    background-image: url(record.png);
+    background-image: url(./record.png);
     background-repeat: repeat;
 }
